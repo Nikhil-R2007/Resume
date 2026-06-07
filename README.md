@@ -36,7 +36,7 @@
 ## 📄 Content Sections
 
 - **Objective** — Career summary
-- **Education** — B.Tech CSE at SKCET, Class XII & X results
+- **Education** — B.E CSE at SKCET, Class XII & X results
 - **Skills** — Languages, tools, concepts, soft skills, spoken languages
 - **Virtual Experience** — JPMorgan Chase & Co. (via Forage)
 - **Certifications** — AI, HTML/CSS courses
